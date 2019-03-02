@@ -11,4 +11,9 @@ public class Student {
         this.english = english;
         this.math = math;
     }
+
+    public void print(){
+        System.out.println(name + "\t" + english + "\t" + math + "\t" +
+                (english+math)/2);
+    }
 }
