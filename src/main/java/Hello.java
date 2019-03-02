@@ -1,7 +1,7 @@
 public class Hello {
     public static void main(String[] args) {
 //        System.out.println("Hello World!");
-        Person p = new Person();
+        Person p = new Person("Courtney",66.5f, 1.72f);
         p.hello();
         p.weight = 66.5f;
         p.height = 1.72f;
