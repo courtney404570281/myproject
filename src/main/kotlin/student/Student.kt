@@ -1,7 +1,16 @@
 package student
 
+import java.util.*
+
 fun main(args: Array<String>) {
-    val stu = Student("Courtney", 88, 90)
+    val scanner = Scanner(System.`in`)
+    print("Please enter student's name: ")
+    var name = scanner.next()
+    print("Please enter student's english: ")
+    var english = scanner.nextInt()
+    print("Please enter student's math: ")
+    var math = scanner.nextInt()
+    val stu = Student(name, english, math)
     stu.print()
 }
 
