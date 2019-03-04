@@ -3,6 +3,10 @@ package student
 import java.util.*
 
 fun main(args: Array<String>) {
+//    userInput()
+}
+
+private fun userInput() {
     val scanner = Scanner(System.`in`)
     print("Please enter student's name: ")
     var name = scanner.next()
