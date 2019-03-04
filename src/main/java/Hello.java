@@ -1,6 +1,13 @@
 public class Hello {
     public static void main(String[] args) {
 
+        //String s = new String("abcde"); //因為 String 很常被使用，因此可以省略 new String
+        String s = "abcde";
+        System.out.println(s.charAt(3)); // d，但若值為 null，會出現 NullPointerException
+        System.out.println(s.length()); // 5
+        System.out.println(s.substring(3)); // de
+        System.out.println(s.substring(1,4)); // bcd
+
         Person p = new Person("Courtney", 66.5f, 1.72f);
         System.out.println(p.bmi());
 
