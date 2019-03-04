@@ -1,7 +1,7 @@
 public class Hello {
     public static void main(String[] args) {
 
-        //String s = new String("abcde"); //因為 String 很常被使用，因此可以省略 new String
+        // String s = new String("abcde"); // 因為 String 很常被使用，因此可以省略 new String
         String s = "abcde";
         System.out.println(s.charAt(3)); // d，但若值為 null，會出現 NullPointerException
         System.out.println(s.length()); // 5
@@ -11,7 +11,7 @@ public class Hello {
         Person p = new Person("Courtney", 66.5f, 1.72f);
         System.out.println(p.bmi());
 
-        //練習比較
+        // 練習比較
         int score = 88;
         System.out.println(score > 80); //true
         System.out.println(score > 80 && score < 90); //true
@@ -20,14 +20,14 @@ public class Hello {
         char c = 'A'; // A = 65
         System.out.println(c > 'a'); // a = 97
 
-        //利用屬性計算 bmi 值
+        // 利用屬性計算 bmi 值
        /* p.weight = 66.5f;
         p.height = 1.72f;
         System.out.println(p.bmi());*/
 
         //p.hello();
 
-        //練習基本資料型態
+        // 練習基本資料型態
         /*int age;
         age = 22 ;
         char c = '中';
