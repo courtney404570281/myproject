@@ -14,6 +14,16 @@ public class Student {
 
     public void print(){
         System.out.println(name + "\t" + english + "\t" + math + "\t" +
-                (english+math)/2);
+                (english + math)/2);
+    }
+
+    public int highest () {
+        int max = 0;
+        if (english > math){
+            max = english;
+        } else {
+            max = math;
+        }
+        return max;
     }
 }
