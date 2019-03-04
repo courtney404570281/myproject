@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class SchoolRunner {
     public static void main(String[] args) {
+//        userInput();
+    }
+
+    private static void userInput() {
         Scanner scanner = new Scanner(System.in);
         //name
         System.out.print("Please enter student's name: ");
