@@ -4,7 +4,7 @@ import java.util.*
 
 fun main(args: Array<String>) {
 //    userInput()
-    val stu = Student("Courtney", 90, 77)
+    val stu = Student("Courtney", 80, 77)
     stu.print()
     println("Highest Score: ${stu.highest()}" )
 }
@@ -12,10 +12,7 @@ fun main(args: Array<String>) {
 class Student(var name: String?, var english: Int, var math: Int){
 
     fun print(){
-        print(name + "\t" + english + "\t" + math + "\t" +
-                getAverage() + "\t" + passOrFailed())
-
-        println("\t" + grading())
+        println("$name\t$english\t$math\t${getAverage()}\t${passOrFailed()}\t${grading()}")
     }
 
     fun passOrFailed () = if (getAverage() >=60) "PASS" else "FAILED"
