@@ -13,10 +13,12 @@ class Student(var name: String?, var english: Int, var math: Int){
 
     fun print(){
         print(name + "\t" + english + "\t" + math + "\t" +
-                getAverage() + "\t" +
-        if (getAverage() >=60) "PASS" else "FAILED")
+                getAverage() + "\t" + passOrFailed())
+
         println("\t" + grading())
     }
+
+    fun passOrFailed () = if (getAverage() >=60) "PASS" else "FAILED"
 
     fun grading() = when (getAverage()) {
             in 90..100 -> 'A'
