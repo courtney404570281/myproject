@@ -18,16 +18,13 @@ class Student(var name: String?, var english: Int, var math: Int){
         println("\t" + grading())
     }
 
-    fun grading() : Char {
-        var grading = when (getAverage()) {
+    fun grading() = when (getAverage()) {
             in 90..100 -> 'A'
             in 80..89 -> 'B'
             in 70..79 -> 'C'
             in 60..69 -> 'C'
             else -> 'F'
         }
-        return grading
-    }
 
     fun getAverage() : Int {
         return (english + math)/2
