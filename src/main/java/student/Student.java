@@ -63,8 +63,10 @@ public class Student {
         int max = 0;
         if (english > math){
             max = english;
+            System.out.println("english");
         } else {
             max = math;
+            System.out.println("math");
         }
         return max;
     }
