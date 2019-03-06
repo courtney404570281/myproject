@@ -32,21 +32,12 @@ class Student(var name: String?, var english: Int, var math: Int){
         println(name?.length)
     }
 
-    fun highest() : Int {
-        var max = if(english > math) {
-            println("english")
-            english
-        } else {
-            println("math")
-            math
-        }
-        /*var max = 0
-        if (english > math) {
-            max = english
-        } else {
-            max = math
-        }*/
-        return max
+    fun highest() = if(english > math) {
+        println("english")
+        english
+    } else {
+        println("math")
+        math
     }
 }
 
