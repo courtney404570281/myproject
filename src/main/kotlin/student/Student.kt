@@ -26,9 +26,7 @@ class Student(var name: String?, var english: Int, var math: Int){
             else -> 'F'
         }
 
-    fun getAverage() : Int {
-        return (english + math)/2
-    }
+    fun getAverage() = (english + math)/2
 
     fun nameCheck(){
         println(name?.length)
