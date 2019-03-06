@@ -20,8 +20,6 @@ public class Student {
 
         switch (average/10) {
             case 10:
-                grading = 'A';
-                break;
             case 9:
                 grading = 'A';
                 break;
