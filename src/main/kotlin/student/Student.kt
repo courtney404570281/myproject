@@ -28,9 +28,7 @@ class Student(var name: String?, var english: Int, var math: Int){
 
     fun getAverage() = (english + math)/2
 
-    fun nameCheck(){
-        println(name?.length)
-    }
+    fun nameCheck() = println(name?.length)
 
     fun highest() = if(english > math) {
         println("english")
