@@ -13,8 +13,22 @@ public class Student {
     }
 
     public void print(){
-        System.out.println(name + "\t" + english + "\t" + math + "\t" +
+        int average = getAverage();
+        System.out.print(name + "\t" + english + "\t" + math + "\t" +
                 getAverage() + "\t" + (getAverage() >= 60 ? "PASS" : "FAILED"));
+
+        char grading = 'F';
+        if (average >= 90 && average <= 100) {
+            grading = 'A';
+        } else if (average >= 80 && average <= 89) {
+            grading = 'B';
+        } else if (average >= 70 && average <= 79) {
+            grading = 'C';
+        } else if (average >= 60 && average <= 69) {
+            grading = 'D';
+        }
+        System.out.println("\t" + grading);
+
         /*if (getAverage() >= 60){
             System.out.println("\tPASS");
         } else {
