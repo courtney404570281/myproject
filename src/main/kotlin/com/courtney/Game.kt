@@ -9,7 +9,8 @@ fun main() {
     var number = 0
     while (number != secret) {
         print("Please enter a number: ")
-        number = Scanner(System.`in`).nextInt()
+//        number = Scanner(System.`in`).nextInt()
+        number = readLine()!!.toInt()
         if (number > secret) {
             println("Lower")
         } else if (number < secret) {
