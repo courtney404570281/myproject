@@ -15,7 +15,9 @@ class Student(var name: String?, var english: Int, var math: Int){
         println("$name\t$english\t$math\t${getAverage()}\t${passOrFailed()}\t${grading()}")
     }
 
-    fun passOrFailed () = if (getAverage() >=60) "PASS" else "FAILED"
+    //fun passOrFailed () = if (getAverage() >=60) "PASS" else "FAILED"
+
+    fun passOrFailed() = if (getAverage() >=60) "PASS" else "FAILED"
 
     fun grading() = when (getAverage()) {
             in 90..100 -> 'A'
