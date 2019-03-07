@@ -10,16 +10,22 @@ public class Game {
         System.out.println(secret);
         Scanner scanner = new Scanner(System.in);
         int number = 0;
-        while (number != -1) {
+        while (number != secret) {
             System.out.print("Please enter a number: ");
             number = scanner.nextInt();
-            System.out.println(number);
+            if (number > secret) {
+                System.out.println("Lower");
+            } else if (number < secret) {
+                System.out.println("Higher");
+            } else {
+                System.out.println("Great! The number is: " + number);
+            }
         }
 
-        int i = 0;
+        /*int i = 0;
         do {
             System.out.println(i);
             i++;
-        } while ( i<3 );
+        } while ( i<3 );*/
     }
 }
