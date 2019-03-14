@@ -10,8 +10,13 @@ public class GameFor {
 
         for (int i=1; i<=5; i++) {
             Scanner scanner = new Scanner(System.in);
+            System.out.print("Please enter number:");
             int number = scanner.nextInt();
             System.out.println("第" + i + "次：" + number);
+            if (number == -1) {
+                break;
+            }
         }
+        System.out.println("結束");
     }
 }
