@@ -12,7 +12,7 @@ public class StudentTest {
     @Test
     public void getAverageTest(){
         Student student = new Student("Courtney", 60, 98);
-        Assertions.assertEquals(79, student.getAverage());
+        Assertions.assertEquals((60+98)/2, student.getAverage());
     }
 }
 
