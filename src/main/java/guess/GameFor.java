@@ -7,9 +7,13 @@ public class GameFor {
         int sum = 0;
         for (int i=1; i<=3; i++) {
             //System.out.println(i);
-            sum += 1;
+            sum += i;
         }
         System.out.println(sum);
+
+        for (int i=5; i>=1; i--) {
+            System.out.println(i);
+        }
 
         for (int i=1; i<=5; i++) {
             Scanner scanner = new Scanner(System.in);
