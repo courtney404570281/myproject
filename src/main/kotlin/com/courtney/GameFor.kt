@@ -9,5 +9,8 @@ fun main() {
         print("Please enter the number:")
         var number = scanner.nextInt()
         println("第${i}次：$number")
+        if (number == -1) {
+            break;
+        }
     }
 }
