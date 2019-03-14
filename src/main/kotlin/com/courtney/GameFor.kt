@@ -8,7 +8,7 @@ fun main() {
     val secret = Random().nextInt(10) + 1
     println(secret)
     for (i in 1..4) {
-        print("Please enter the number:")
+        print("Please enter the number:(${i}/4)")
         var number = scanner.nextInt()
         println("第${i}次：$number")
         if (number > secret) {
