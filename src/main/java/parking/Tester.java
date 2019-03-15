@@ -7,6 +7,10 @@ import java.util.Date;
 
 public class Tester {
     public static void main(String[] args) {
+        java();
+    }
+
+    private static void java() {
         Date date = new Date();
         System.out.println(date);
 
@@ -28,6 +32,5 @@ public class Tester {
         System.out.println(calendar.getTime());
         calendar.add(Calendar.DAY_OF_YEAR, 3);
         System.out.println(calendar.getTime());
-
     }
 }
