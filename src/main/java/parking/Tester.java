@@ -12,6 +12,12 @@ import java.util.Date;
 public class Tester {
     public static void main(String[] args) {
         //java8
+        java8();
+
+//        java();
+    }
+
+    private static void java8() {
         Instant instant = Instant.now();
         System.out.println(instant); // 2019-03-15T16:12:21.558Z //T=Time Z=Zone
         //Local
@@ -22,8 +28,6 @@ public class Tester {
         System.out.println(local.plus(Duration.ofHours(3))); // 2019-03-16T03:22:48.346
         LocalDateTime other = LocalDateTime.of(2019, 03, 15, 13, 11,33);
         System.out.println(other); // 2019-03-15T13:11:33
-
-//        java();
     }
 
     private static void java() {
