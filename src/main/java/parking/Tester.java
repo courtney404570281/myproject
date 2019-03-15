@@ -2,6 +2,7 @@ package parking;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
 
 public class Tester {
@@ -21,6 +22,12 @@ public class Tester {
         } catch (ParseException e) {
             e.printStackTrace();
         }
+        Calendar calendar = Calendar.getInstance();
+        System.out.println(calendar.getTime());
+        calendar.set(Calendar.MONTH, 9);
+        System.out.println(calendar.getTime());
+        calendar.add(Calendar.DAY_OF_YEAR, 3);
+        System.out.println(calendar.getTime());
 
     }
 }
