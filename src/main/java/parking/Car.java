@@ -1,21 +1,29 @@
 package parking;
 
+import java.time.Duration;
+import java.time.LocalDateTime;
+
 public class Car {
     private String id;
-    private long enter;
-    private long  leave;
+    private LocalDateTime enter;
+    private LocalDateTime  leave;
 
-    public Car(String id, long enter) {
+    public Car(String id, LocalDateTime enter) {
         this.id = id;
         this.enter = enter;
     }
 
-    public void leave() {
-        leave = System.currentTimeMillis();
+    public long getDuration() {
+        Duration duration = Duration.between(enter, leave);
+        return duration.toMinutes();
     }
 
-    public void setLeave (long leave) {
-        if (leave > enter) {
+    public void leave() {
+        leave = LocalDateTime.now();
+    }
+
+    public void setLeave (LocalDateTime leave) {
+        if (leave.isAfter(enter)) {
             this.leave = leave;
         }
     }

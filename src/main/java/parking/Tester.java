@@ -12,12 +12,15 @@ import java.util.Date;
 public class Tester {
     public static void main(String[] args) {
         LocalDateTime enter = LocalDateTime.of(2019, 03, 16, 12, 00, 00);
-        LocalDateTime leave = LocalDateTime.of(2019, 03, 16, 14, 00, 00);
+        LocalDateTime leave = LocalDateTime.of(2019, 03, 16, 14, 04, 00);
+        Car car = new Car("AA-0001", enter);
+        car.setLeave(leave);
+        System.out.println(car.getDuration());
+        long hours = (long)Math.ceil(car.getDuration()/60.0f);
+        System.out.println(hours);
+        System.out.println(hours * 30);
 
-
-        //java8
-        java8();
-
+//        java8();
 //        java();
     }
 
