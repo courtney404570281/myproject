@@ -11,6 +11,10 @@ import java.util.Date;
 
 public class Tester {
     public static void main(String[] args) {
+        LocalDateTime enter = LocalDateTime.of(2019, 03, 16, 12, 00, 00);
+        LocalDateTime leave = LocalDateTime.of(2019, 03, 16, 14, 00, 00);
+
+
         //java8
         java8();
 
