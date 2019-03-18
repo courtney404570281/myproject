@@ -2,6 +2,11 @@ package many;
 
 public class Tester {
     public static void main(String[] args) {
+
+//        arrayTest();
+    }
+
+    private static void arrayTest() {
         int[] number = new int[5];
         number[0] = 5;
         number[1] = 4;
@@ -11,6 +16,9 @@ public class Tester {
         System.out.println(scores); // [I@63947c6b 記憶體位置
         for(int i = 0; i<5; i++) {
             System.out.println(scores[i]);
+        }
+        for (int n : scores) {
+            System.out.println(n);
         }
     }
 }
