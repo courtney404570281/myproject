@@ -2,12 +2,28 @@ package many;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
 
 public class Tester {
     public static void main(String[] args) {
+
+//        setTest();
 //        listTest();
 //        arrayTest();
+    }
+
+    private static void setTest() {
+        HashSet<Integer> set = new HashSet();
+        set.add(1);
+        set.add(6);
+        set.add(7);
+        set.add(8);
+        set.add(6);
+        System.out.println(set);
+        for (int n : set) {
+            System.out.println(n);
+        }
     }
 
     private static void listTest() {
