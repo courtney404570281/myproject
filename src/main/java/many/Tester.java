@@ -1,17 +1,25 @@
 package many;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public class Tester {
     public static void main(String[] args) {
-        ArrayList array = new ArrayList();
-        array.add(5);
-        array.add(3);
-        array.add("abc");
-        array.add(true);
-        System.out.println(array);
-        int n1 = (int)array.get(0);
-        String s = (String)array.get(2);
+        ArrayList<Integer> list = new ArrayList();
+        list.add(5);
+        list.add(3);
+        list.add(1);
+        list.add(7);
+        list.add(1);
+        System.out.println(list); // [5, 3, 1, 7, 1]
+        int n1 = (int)list.get(0);
+        int n2 = (int)list.get(3);
+        System.out.println(list.size());
+        List<Integer> scores = Arrays.asList(68, 88, 90, 49, 50);
+        for (int score : scores) {
+            System.out.println(score);
+        }
 
 //        arrayTest();
     }
