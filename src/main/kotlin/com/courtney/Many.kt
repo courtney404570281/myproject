@@ -7,4 +7,8 @@ fun main() {
     for (score in scores) {
         println(score)
     }
+    println(list.get(3))
+    var mutableList = mutableListOf(68, 88, 90, 49, 50)
+    mutableList.add(6)
+    println(mutableList)
 }
