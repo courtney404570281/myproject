@@ -6,6 +6,11 @@ import java.util.List;
 
 public class Tester {
     public static void main(String[] args) {
+//        listTest();
+//        arrayTest();
+    }
+
+    private static void listTest() {
         ArrayList<Integer> list = new ArrayList();
         list.add(5);
         list.add(3);
@@ -20,8 +25,6 @@ public class Tester {
         for (int score : scores) {
             System.out.println(score);
         }
-
-//        arrayTest();
     }
 
     private static void arrayTest() {
