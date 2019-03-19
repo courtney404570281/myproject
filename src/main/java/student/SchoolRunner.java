@@ -4,8 +4,10 @@ import java.util.Scanner;
 
 public class SchoolRunner {
     public static void main(String[] args) {
+
+
 //        userInput();
-        com.courtney.Student stu = new com.courtney.Student("Courtney", 60, 88);
+        Student stu = new Student("Courtney", 60, 88);
         stu.print();
         System.out.println("High Score: " + stu.highest());
     }
