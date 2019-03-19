@@ -8,6 +8,7 @@ public class SchoolRunner {
 //        userInput();
 
         Student.pass = 50;
+//        com.courtney.Student.setPass(40);
 
         Student stu = new Student("Courtney", 10, 91);
         Student stu1 = new Student("Elizabeth", 50, 48);
