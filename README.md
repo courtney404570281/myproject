@@ -5,16 +5,25 @@
 - guess
   - Game.java
   - GameFor.java
+- lottery
+  - BigGame.java
+  - Game539.java
+  - NumberGame.java
 - many
   - Tester
 - parking
-  - Car
-  - Tester
+  - Car.java
+  - Tester.java
 - student
+  - GraduateStudent.java
   - SchoolRunner.java
   - Student.java
+- FinanceReport.java
+- HealthReport.java
 - Hello.java
 - Person.java
+- Report.java
+- ReportTester.java
 
 ## Kotlin
 - com.courtney
