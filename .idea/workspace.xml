@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9980504f-c3af-4ed6-ba74-3c42dc2d1a93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/courtney/Ticket.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FinanceReport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/HealthReport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/myproject_main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Report.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ReportTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/GameForKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/GameKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/GraduateStudent$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/GraduateStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/HelloKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/ManyKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/ParkingKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Student$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/StudentKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/guess/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/guess/GameFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/lottery/BigGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/lottery/Game539.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/lottery/NumberGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/many/Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/parking/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/parking/Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/student/GraduateStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/student/SchoolRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/student/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/courtney/Ticket.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/courtney/Ticket.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -54,73 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lottery/NumberGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Hello.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Ticket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/courtney/Ticket.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lottery/Game539.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lottery/BigGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="291">
+              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -221,22 +128,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="myproject" type="58d84e3e:PackageViewProjectNode" />
-              <item name="myproject" type="eaaa3913:PackageViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="myproject" type="58d84e3e:PackageViewProjectNode" />
-              <item name="myproject" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="myproject_main" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,6 +158,14 @@
               <item name="myproject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lottery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myproject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -281,13 +180,29 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myproject" type="58d84e3e:PackageViewProjectNode" />
+              <item name="myproject" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="myproject" type="58d84e3e:PackageViewProjectNode" />
+              <item name="myproject" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="myproject_main" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555246631938" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555247752406" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -314,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hello">
+  <component name="RunManager" selected="Kotlin.com.courtney.TicketKt">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="myproject_main" />
@@ -342,19 +257,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.courtney.ManyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="myproject_main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.courtney.ManyKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.courtney.StudentKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="myproject_main" />
       <option name="VM_PARAMETERS" />
@@ -368,20 +270,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.courtney.TicketKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="myproject_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.courtney.TicketKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.SchoolRunner" />
       <item itemvalue="Application.ReportTester" />
       <item itemvalue="Application.Hello" />
-      <item itemvalue="Kotlin.com.courtney.ManyKt" />
       <item itemvalue="Kotlin.com.courtney.StudentKt" />
+      <item itemvalue="Kotlin.com.courtney.TicketKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.courtney.TicketKt" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.ReportTester" />
         <item itemvalue="Kotlin.com.courtney.StudentKt" />
         <item itemvalue="Application.SchoolRunner" />
-        <item itemvalue="Kotlin.com.courtney.ManyKt" />
       </list>
     </recent_temporary>
   </component>
@@ -415,14 +330,8 @@
       <workItem from="1553562896427" duration="41000" />
       <workItem from="1553603239720" duration="540000" />
       <workItem from="1555222721013" duration="109000" />
-      <workItem from="1555245998334" duration="609000" />
-    </task>
-    <task id="LOCAL-00043" summary="Do-While">
-      <created>1551966230341</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1551966230341</updated>
+      <workItem from="1555245998334" duration="1160000" />
+      <workItem from="1555247392956" duration="218000" />
     </task>
     <task id="LOCAL-00044" summary="Random">
       <created>1551966496527</created>
@@ -760,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553524169569</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Add Ticket">
+      <created>1555246670253</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1555246670254</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -793,13 +709,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49394000" />
+    <option name="totallyTimeSpent" value="50163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23424879" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18497577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -808,11 +724,11 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Repositories" order="7" weight="0.113893375" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.329927" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.48869145" weight="0.30547947" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5169628" side_tool="true" visible="true" weight="0.3068493" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4878837" weight="0.30547947" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.51534736" side_tool="true" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.48303714" visible="true" weight="0.3068493" />
-      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.48626816" weight="0.32876712" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.48303714" weight="0.3068493" />
+      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.48465267" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -829,7 +745,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info anchor="right" id="Run" order="10" sideWeight="0.49916106" weight="0.35056543" />
+      <window_info active="true" anchor="right" id="Run" order="10" sideWeight="0.49916106" visible="true" weight="0.24798061" />
       <window_info anchor="right" id="Debug" order="11" sideWeight="0.49919224" weight="0.41922456" />
       <window_info anchor="right" id="Maven" order="12" />
     </layout>
@@ -900,7 +816,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Calendar" />
     <MESSAGE value="Refactor java" />
     <MESSAGE value="Instant" />
     <MESSAGE value="Refactor java8" />
@@ -925,7 +840,8 @@
     <MESSAGE value="Override Student on GraduateStudent in Kotlin" />
     <MESSAGE value="Add Report" />
     <MESSAGE value="Add lottery" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add lottery" />
+    <MESSAGE value="Add Ticket" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Ticket" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/student/StudentRunner.java" />
@@ -1156,16 +1072,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lottery/NumberGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/guess/Ticket.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/lottery/Game539.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1180,10 +1087,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/guess/Ticket.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lottery/NumberGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="228">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1217,8 +1127,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/courtney/Ticket.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="291">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
         </state>
       </provider>
     </entry>
