@@ -1,9 +1,6 @@
 package io;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.InputStream;
+import java.io.*;
 
 public class Tester {
     public static void main(String[] args) {
@@ -12,9 +9,15 @@ public class Tester {
         System.out.println(file.getAbsolutePath());
         try {
             InputStream is = new FileInputStream(file);
+            int n = is.read();
+            System.out.println(n);
+            System.out.println(is.read());
+            System.out.println(is.read());
         } catch (FileNotFoundException e) {
             e.printStackTrace();
             System.out.println("message");
+        } catch (IOException e) {
+            e.printStackTrace();
         }
         System.out.println("File open success");
     }
