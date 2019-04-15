@@ -5,6 +5,8 @@
 - guess
   - Game.java
   - GameFor.java
+- io
+  - Tester.java
 - lottery
   - BigGame.java
   - Game539.java
@@ -24,6 +26,7 @@
 - Person.java
 - Report.java
 - ReportTester.java
+- Ticket.java
 
 ## Kotlin
 - com.courtney
@@ -33,4 +36,5 @@
   - Many.kt
   - Parking.kt
   - Student.kt
+  - Ticket.kt
 

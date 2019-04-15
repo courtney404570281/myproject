@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9980504f-c3af-4ed6-ba74-3c42dc2d1a93" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/io/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/io/Tester.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -22,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -31,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/Tester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="178">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -96,8 +95,8 @@
         <option value="$PROJECT_DIR$/src/main/java/lottery/NumberGame.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ticket.java" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/courtney/Ticket.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/io/Tester.java" />
         <option value="$PROJECT_DIR$/data.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/io/Tester.java" />
       </list>
     </option>
   </component>
@@ -204,7 +203,7 @@
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555290231830" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555291652241" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -333,21 +332,7 @@
       <workItem from="1553603239720" duration="540000" />
       <workItem from="1555222721013" duration="109000" />
       <workItem from="1555245998334" duration="1160000" />
-      <workItem from="1555247392956" duration="2073000" />
-    </task>
-    <task id="LOCAL-00048" summary="readLine in Kotlin">
-      <created>1551967567472</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1551967567472</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Add GameFor.java">
-      <created>1552571122307</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1552571122307</updated>
+      <workItem from="1555247392956" duration="2730000" />
     </task>
     <task id="LOCAL-00050" summary="For-Loop">
       <created>1552571496308</created>
@@ -678,7 +663,21 @@
       <option name="project" value="LOCAL" />
       <updated>1555289916221</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Add FileReader">
+      <created>1555290228239</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1555290228244</updated>
+    </task>
+    <task id="LOCAL-00098" summary="BufferedReader">
+      <created>1555291543091</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1555291543091</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -711,13 +710,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52018000" />
+    <option name="totallyTimeSpent" value="52675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18497577" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18497577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -747,7 +746,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info anchor="right" id="Run" order="10" sideWeight="0.49916106" visible="true" weight="0.32471728" />
+      <window_info active="true" anchor="right" id="Run" order="10" sideWeight="0.49916106" visible="true" weight="0.32471728" />
       <window_info anchor="right" id="Debug" order="11" sideWeight="0.49919224" weight="0.41922456" />
       <window_info anchor="right" id="Maven" order="12" />
     </layout>
@@ -818,8 +817,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Car in Kotlin" />
-    <MESSAGE value="Add many" />
     <MESSAGE value="Add arrayTest" />
     <MESSAGE value="Add Collections" />
     <MESSAGE value="Add List" />
@@ -843,7 +840,9 @@
     <MESSAGE value="Add File" />
     <MESSAGE value="Try catch" />
     <MESSAGE value="Read Data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Read Data" />
+    <MESSAGE value="Add FileReader" />
+    <MESSAGE value="BufferedReader" />
+    <option name="LAST_COMMIT_MESSAGE" value="BufferedReader" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/student/StudentRunner.java" />
@@ -1134,17 +1133,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/Tester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
