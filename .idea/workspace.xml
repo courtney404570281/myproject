@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9980504f-c3af-4ed6-ba74-3c42dc2d1a93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/courtney/Ticket.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/courtney/Ticket.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -23,11 +22,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/courtney/Ticket.kt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/Tester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -38,8 +49,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -88,6 +99,8 @@
         <option value="$PROJECT_DIR$/src/main/java/lottery/NumberGame.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ticket.java" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/courtney/Ticket.kt" />
+        <option value="$PROJECT_DIR$/data.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/io/Tester.java" />
       </list>
     </option>
   </component>
@@ -158,14 +171,6 @@
               <item name="myproject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lottery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -202,7 +207,7 @@
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555247752406" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555289021507" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -229,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.courtney.TicketKt">
+  <component name="RunManager" selected="Application.Tester">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="myproject_main" />
@@ -244,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchoolRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="student.SchoolRunner" />
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.Tester" />
       <module name="myproject_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="student.*" />
+          <option name="PATTERN" value="io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,19 +289,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SchoolRunner" />
       <item itemvalue="Application.ReportTester" />
       <item itemvalue="Application.Hello" />
       <item itemvalue="Kotlin.com.courtney.StudentKt" />
       <item itemvalue="Kotlin.com.courtney.TicketKt" />
+      <item itemvalue="Application.Tester" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tester" />
         <item itemvalue="Kotlin.com.courtney.TicketKt" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.ReportTester" />
         <item itemvalue="Kotlin.com.courtney.StudentKt" />
-        <item itemvalue="Application.SchoolRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -331,14 +336,7 @@
       <workItem from="1553603239720" duration="540000" />
       <workItem from="1555222721013" duration="109000" />
       <workItem from="1555245998334" duration="1160000" />
-      <workItem from="1555247392956" duration="218000" />
-    </task>
-    <task id="LOCAL-00044" summary="Random">
-      <created>1551966496527</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1551966496527</updated>
+      <workItem from="1555247392956" duration="1158000" />
     </task>
     <task id="LOCAL-00045" summary="Guess a Number">
       <created>1551966606559</created>
@@ -676,7 +674,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555246670254</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Add data class in Kotlin">
+      <created>1555247778292</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1555247778296</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -709,7 +714,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50163000" />
+    <option name="totallyTimeSpent" value="51103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -725,10 +730,10 @@
       <window_info id="Repositories" order="7" weight="0.113893375" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.329927" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4878837" weight="0.30547947" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.51534736" side_tool="true" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.51615506" side_tool="true" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.48303714" weight="0.3068493" />
-      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.48465267" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.4838449" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -745,7 +750,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="10" sideWeight="0.49916106" visible="true" weight="0.24798061" />
+      <window_info active="true" anchor="right" id="Run" order="10" sideWeight="0.49916106" visible="true" weight="0.32471728" />
       <window_info anchor="right" id="Debug" order="11" sideWeight="0.49919224" weight="0.41922456" />
       <window_info anchor="right" id="Maven" order="12" />
     </layout>
@@ -816,7 +821,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refactor java" />
     <MESSAGE value="Instant" />
     <MESSAGE value="Refactor java8" />
     <MESSAGE value="Add Car" />
@@ -841,7 +845,8 @@
     <MESSAGE value="Add Report" />
     <MESSAGE value="Add lottery" />
     <MESSAGE value="Add Ticket" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Ticket" />
+    <MESSAGE value="Add data class in Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add data class in Kotlin" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/student/StudentRunner.java" />
@@ -1127,8 +1132,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/courtney/Ticket.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        <state relative-caret-position="289">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
