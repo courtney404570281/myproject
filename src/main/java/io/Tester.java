@@ -5,6 +5,23 @@ import java.io.*;
 public class Tester {
     public static void main(String[] args) {
         try {
+            BufferedReader br = new BufferedReader(new FileReader("data.txt"));
+            String line = br.readLine();
+            while (line != null) {
+                System.out.println(line);
+                line = br.readLine();
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+//        fileReader();
+//        inputStream();
+    }
+
+    private static void fileReader() {
+        try {
             FileReader fr = new FileReader("data.txt");
             int n = fr.read();
             while (n!= -1) {
@@ -16,7 +33,6 @@ public class Tester {
         } catch (IOException e) {
             e.printStackTrace();
         }
-//        inputStream();
     }
 
     private static void inputStream() {
