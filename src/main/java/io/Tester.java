@@ -7,18 +7,22 @@ public class Tester {
         File file = new File("data.txt");
         System.out.println(file.exists());
         System.out.println(file.getAbsolutePath());
+        FileInputStream is = null;
         try {
-            InputStream is = new FileInputStream(file);
+            is = new FileInputStream(file);
             int n = is.read();
-            System.out.println(n);
-            System.out.println(is.read());
-            System.out.println(is.read());
+            while (n != -1) {
+                System.out.print((char)n);
+                n = is.read();
+            }
+            System.out.println();
         } catch (FileNotFoundException e) {
             e.printStackTrace();
-            System.out.println("message");
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+
         System.out.println("File open success");
     }
 }
