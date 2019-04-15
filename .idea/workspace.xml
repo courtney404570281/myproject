@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9980504f-c3af-4ed6-ba74-3c42dc2d1a93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/WriteTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FinanceReport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/HealthReport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/myproject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Report.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ReportTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/GameForKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/GameKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/GraduateStudent$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/GraduateStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/HelloKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/ManyKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/ParkingKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Student$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/StudentKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/TicketKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/guess/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/guess/GameFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/io/Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/lottery/BigGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/lottery/Game539.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/lottery/NumberGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/many/Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/parking/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/parking/Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/student/GraduateStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/student/SchoolRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/student/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/ReadTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/courtney/FileTester.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/courtney/FileTester.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -68,15 +26,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/ReadTester.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
@@ -85,14 +34,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/WriteTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/courtney/FileTester.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -108,8 +66,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -161,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/main/java/io/Tester.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/io/WriteTester.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/courtney/FileTester.kt" />
       </list>
     </option>
   </component>
@@ -228,7 +187,7 @@
               <item name="myproject" type="58d84e3e:PackageViewProjectNode" />
               <item name="myproject" type="eaaa3913:PackageViewModuleGroupNode" />
               <item name="myproject_main" type="616d4139:PackageViewModuleNode" />
-              <item name="io" type="1f31426a:PackageElementNode" />
+              <item name="com.courtney" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -268,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WriteTester">
+  <component name="RunManager" selected="Kotlin.com.courtney.FileTesterKt">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="myproject_main" />
@@ -289,13 +248,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReportTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReportTester" />
-      <module name="myproject_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WriteTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.WriteTester" />
       <module name="myproject_main" />
@@ -305,6 +257,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.courtney.FileTesterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="myproject_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.courtney.FileTesterKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -323,19 +288,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReportTester" />
       <item itemvalue="Application.Hello" />
       <item itemvalue="Application.ReadTester" />
       <item itemvalue="Kotlin.com.courtney.TicketKt" />
       <item itemvalue="Application.WriteTester" />
+      <item itemvalue="Kotlin.com.courtney.FileTesterKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.courtney.FileTesterKt" />
         <item itemvalue="Application.WriteTester" />
         <item itemvalue="Application.ReadTester" />
         <item itemvalue="Kotlin.com.courtney.TicketKt" />
         <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.ReportTester" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +336,7 @@
       <workItem from="1555222721013" duration="109000" />
       <workItem from="1555245998334" duration="1160000" />
       <workItem from="1555247392956" duration="3142000" />
-      <workItem from="1555332859055" duration="814000" />
+      <workItem from="1555332859055" duration="2327000" />
     </task>
     <task id="LOCAL-00051" summary="-1 break the loop">
       <created>1552571714262</created>
@@ -749,13 +714,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53901000" />
+    <option name="totallyTimeSpent" value="55414000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18739903" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18739903" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -785,7 +750,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info anchor="right" id="Run" order="10" sideWeight="0.49916106" visible="true" weight="0.32471728" />
+      <window_info active="true" anchor="right" id="Run" order="10" sideWeight="0.49916106" visible="true" weight="0.32471728" />
       <window_info anchor="right" id="Debug" order="11" sideWeight="0.49919224" weight="0.41922456" />
       <window_info anchor="right" id="Maven" order="12" />
     </layout>
@@ -1172,6 +1137,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/WriteTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1189,13 +1164,10 @@
     <entry file="file://$PROJECT_DIR$/output.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/WriteTester.java">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/courtney/FileTester.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="342">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
         </state>
       </provider>
     </entry>
