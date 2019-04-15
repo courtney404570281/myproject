@@ -2,7 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9980504f-c3af-4ed6-ba74-3c42dc2d1a93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/WriteTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/FinanceReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/HealthReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/myproject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Report.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ReportTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/GameForKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/GameKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/GraduateStudent$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/GraduateStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/HelloKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/ManyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/ParkingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Student$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/StudentKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/courtney/TicketKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/guess/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/guess/GameFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/io/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/lottery/BigGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/lottery/Game539.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/lottery/NumberGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/many/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/parking/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/parking/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/student/GraduateStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/student/SchoolRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/student/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/ReadTester.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -12,6 +55,10 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -24,18 +71,35 @@
         <entry file="file://$PROJECT_DIR$/data.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/ReadTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/Tester.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/WriteTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="133">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -96,6 +160,7 @@
         <option value="$PROJECT_DIR$/data.txt" />
         <option value="$PROJECT_DIR$/src/main/java/io/Tester.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/io/WriteTester.java" />
       </list>
     </option>
   </component>
@@ -115,6 +180,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myproject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -136,50 +212,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="courtney" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -192,6 +224,12 @@
               <item name="myproject" type="eaaa3913:PackageViewModuleGroupNode" />
               <item name="myproject_main" type="616d4139:PackageViewModuleNode" />
             </path>
+            <path>
+              <item name="myproject" type="58d84e3e:PackageViewProjectNode" />
+              <item name="myproject" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="myproject_main" type="616d4139:PackageViewModuleNode" />
+              <item name="io" type="1f31426a:PackageElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -200,6 +238,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555291939896" />
@@ -229,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tester">
+  <component name="RunManager" selected="Application.WriteTester">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="myproject_main" />
@@ -237,15 +276,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReportTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReportTester" />
-      <module name="myproject_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.Tester" />
+    <configuration name="ReadTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.ReadTester" />
       <module name="myproject_main" />
       <extension name="coverage">
         <pattern>
@@ -257,15 +289,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.courtney.StudentKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ReportTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReportTester" />
       <module name="myproject_main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.courtney.StudentKt" />
-      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.WriteTester" />
+      <module name="myproject_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -286,17 +325,17 @@
     <list>
       <item itemvalue="Application.ReportTester" />
       <item itemvalue="Application.Hello" />
-      <item itemvalue="Kotlin.com.courtney.StudentKt" />
+      <item itemvalue="Application.ReadTester" />
       <item itemvalue="Kotlin.com.courtney.TicketKt" />
-      <item itemvalue="Application.Tester" />
+      <item itemvalue="Application.WriteTester" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.WriteTester" />
+        <item itemvalue="Application.ReadTester" />
         <item itemvalue="Kotlin.com.courtney.TicketKt" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.ReportTester" />
-        <item itemvalue="Kotlin.com.courtney.StudentKt" />
       </list>
     </recent_temporary>
   </component>
@@ -332,6 +371,7 @@
       <workItem from="1555222721013" duration="109000" />
       <workItem from="1555245998334" duration="1160000" />
       <workItem from="1555247392956" duration="3142000" />
+      <workItem from="1555332859055" duration="814000" />
     </task>
     <task id="LOCAL-00051" summary="-1 break the loop">
       <created>1552571714262</created>
@@ -709,13 +749,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53087000" />
+    <option name="totallyTimeSpent" value="53901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18497577" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18739903" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -725,9 +765,9 @@
       <window_info id="Repositories" order="7" weight="0.113893375" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.329927" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4878837" weight="0.30547947" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5177706" side_tool="true" visible="true" weight="0.30547947" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.51857835" side_tool="true" weight="0.30547947" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.4822294" visible="true" weight="0.30547947" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.48142165" visible="true" weight="0.30547947" />
       <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.4838449" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
@@ -745,7 +785,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info anchor="right" id="Run" order="10" sideWeight="0.49916106" weight="0.32471728" />
+      <window_info anchor="right" id="Run" order="10" sideWeight="0.49916106" visible="true" weight="0.32471728" />
       <window_info anchor="right" id="Debug" order="11" sideWeight="0.49919224" weight="0.41922456" />
       <window_info anchor="right" id="Maven" order="12" />
     </layout>
@@ -1122,13 +1162,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1139,10 +1172,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/Tester.java">
+    <entry file="file://$PROJECT_DIR$/data.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
+        <state relative-caret-position="133">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/ReadTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/WriteTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
