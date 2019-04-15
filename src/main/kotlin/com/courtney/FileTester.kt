@@ -4,6 +4,9 @@ import java.io.File
 
 fun main() {
 
+    File("data.txt").bufferedReader().lines().forEach {
+        println(it)
+    }
 //    Write()
 }
 
@@ -16,7 +19,7 @@ private fun Write() {
         it.println("1st line")
         it.println("2nd line")
         it.println("3rd line")*/
-    
+
     // 寫大量資料，用 bufferedWriter 效率較佳
     // 需要自己換行
     File("output.txt").bufferedWriter().use {
